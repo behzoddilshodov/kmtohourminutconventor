@@ -1,0 +1,75 @@
+body{
+  font-family: 'Arial';
+  background-color: green;
+}
+
+.km__container {
+  text-align: center;
+}
+.km__heading {
+  color: ivory;
+ 
+}
+
+.km__form-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.km__form-heading {
+  margin-right: 20px;
+  color: floralwhite;
+  margin: 0;
+  margin-right: 20px;
+}
+
+.km__input {
+  width: 500px;
+  max-width: 100%;
+  padding: 10px;
+}
+
+.container{
+  max-width: 1100px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.convert__btn{
+  background: none;
+	color: inherit;
+	border: none;
+	padding: 0;
+	font: inherit;
+	cursor: pointer;
+	outline: inherit;
+  background-color: aqua;
+  padding: 10px;
+  margin-left: 5px;
+}
+
+.km__list{
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+}
+
+.km__img{
+  border-radius:50%;
+}
+
+.km__list-head{
+  color:aliceblue;
+  font-size: 30px;
+  margin: 0;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+.km__txt{
+  margin: 0;
+  color: linen;
+}
